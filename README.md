@@ -1,4 +1,4 @@
-# Tips
+# Most frequent used commands:
 
 ## Restore a file from a specific commit
 ```sh
